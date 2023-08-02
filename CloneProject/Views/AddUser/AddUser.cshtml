@@ -1,0 +1,18 @@
+﻿@model EntityLayer.Concrete.User
+
+<h2>Add New User</h2>
+
+@using (Html.BeginForm("AddUser", "User"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.UserName)
+        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.UserName)
+    </div>
+
+    <!-- Diğer giriş alanları için benzer kodlar -->
+
+    <button type="submit" class="btn btn-primary">Add User</button>
+}

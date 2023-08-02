@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CloneProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CloneProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\bootstrap-4.3.1\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-4.3.1\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\resimler\\apple.jpg",
+      "PackagePath": "staticwebassets\\resimler\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\resimler\\google.png",
+      "PackagePath": "staticwebassets\\resimler\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\resimler\\indir.png",
+      "PackagePath": "staticwebassets\\resimler\\indir.png"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\resimler\\login image.jpg",
+      "PackagePath": "staticwebassets\\resimler\\login image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\resimler\\photo.png",
+      "PackagePath": "staticwebassets\\resimler\\photo.png"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\resimler\\twitter.png",
+      "PackagePath": "staticwebassets\\resimler\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\css\\LoginStyles.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\css\\LoginStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\css\\styles.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap-4.1.1\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lzila\\source\\repos\\CloneProject\\CloneProject\\wwwroot\\wwwroot\\lib\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CloneProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CloneProject.props",
+      "PackagePath": "build\\CloneProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CloneProject.props",
+      "PackagePath": "buildMultiTargeting\\CloneProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CloneProject.props",
+      "PackagePath": "buildTransitive\\CloneProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

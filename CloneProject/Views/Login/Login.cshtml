@@ -1,0 +1,65 @@
+﻿
+@model EntityLayer.Concrete.User
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<html lang="en">
+<head>
+    <!-- Head kısmı, gerekli stil ve scriptler ekleyebilirsiniz -->
+    <meta name=" viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+          integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Twitter Login page design using html and css</title>
+    <link rel="stylesheet" href="~/wwwroot/lib/bootstrap-4.1.1/css/loginstyles.css" />
+    <title>Login Page</title>
+</head>
+<body>
+    <div class="login-box">
+        <span class="borderLine"></span>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <h2>Log in 
+
+                    <i class="fab fa-twitter"></i>
+        
+             </h2>
+                <div style="color:#ff22ff">@ViewBag.Log</div>
+                <div class="inputBox">
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.LabelFor(model => model.UserName, "UserName", new { }) <br>
+                        @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" , type = "text" } })
+                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        
+                   
+                    <i></i>
+                    <br>
+                </div>
+
+                <div class="inputBox">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div style="color:#ffffff">
+                      
+                    </div>
+                    @Html.LabelFor(model => model.Password, "Password", new { }) <br>
+                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", type = "password" } })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+                <br>
+                    <i></i>
+                
+                <br>
+                <div>
+                    <input type="submit" value="Login" class="btn btn-success" />
+                </div>
+        }
+    </div>
+</body>
+</html>

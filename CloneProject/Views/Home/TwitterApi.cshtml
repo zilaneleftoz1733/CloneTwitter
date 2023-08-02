@@ -1,0 +1,10 @@
+﻿@model List<string>
+
+<h2>Tweet Akışı</h2>
+
+<ul>
+    @foreach (var tweet in Model)
+    {
+        <li>@tweet</li>
+    }
+</ul>
